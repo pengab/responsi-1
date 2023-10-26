@@ -1,0 +1,4 @@
+#Wed Oct 25 10:35:07 ICT 2023
+base.0=D\:\\UNSOED\\MATERI\\Semester 5\\Praktikum Permrograman Mobile\\tokokita\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
